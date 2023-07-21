@@ -7,14 +7,12 @@ Understanding chaos theory with a simulation of a Double Pendulum with Python an
 * Further Description at: 
     *  <https://fossengineer.com/chaos-theory-and-the-double-pendulum/>
 
-![DoublePendulum](https://github.com/JAlcocerT/Py_Double_Pendulum/raw/master/Z_Outro/DoublePendulum.jpg)
-
-## Powered Thanks To
+## Powered Thanks To :heart:
 
 * [Streamlit](https://github.com/streamlit/streamlit)
 * Physics
 
-## Ways to Contribute
+## :loudspeaker: Ways to Contribute 
 
 * Please feel free to fork the code - try it out for yourself and improve or add others graphs.
 
