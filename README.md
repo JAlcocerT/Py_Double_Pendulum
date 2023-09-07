@@ -5,7 +5,8 @@ Understanding chaos theory with a simulation of a Double Pendulum with Python an
 * Deployed at <https://double-pendulum.fossengineer.com>
     * The Docker Images are ready at [DockerHub x86/ARM](https://hub.docker.com/r/fossengineer/double_pendulum)
 * Further Description at: 
-    *  <https://fossengineer.com/chaos-theory-and-the-double-pendulum/>
+    *  <https://fossengineer.com/chaos-theory-and-the-double-pendulum-with-python/>
+    *  [Medium Post](https://medium.com/@jalcocert/python-dance-with-chaos-simulating-the-double-pendulum-d45e622da207)
 
 ## Powered Thanks To :heart:
 
