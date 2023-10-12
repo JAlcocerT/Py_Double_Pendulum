@@ -2,11 +2,13 @@
 
 Understanding **Chaos Theory** with a simulation of a **Double Pendulum with Python** and Streamlit. Observe how deterministic and yet chaotic systems behave.
 
-My goal with this project, open to everyone, irrespective of one's grounding in science, mathematics or IT skills  is more than just creating an interactive digital simulation of a Double Pendulum. 
+My **goal** with this project, open to everyone, irrespective of one's grounding in science, mathematics or IT skills  is more than just creating an interactive digital simulation of a Double Pendulum. 
 
 Here, we are not merely observing the erratic dance of the Double Pendulum but we are invited into a deeper realm of contemplation.
 
 This particular Double Pendulum example can serve as a mirror, prompting us to recognize the parallels between the pendulum's unpredictable swings and the intricate web of events and decisions that shape our lives. In every unexpected twist of the pendulum, there's a reflection of life's unforeseen turns, of choices that lead to vastly different outcomes, and of tiny events that cascade into monumental changes.
+
+![Double Pendulum](https://github.com/JAlcocerT/Py_Double_Pendulum/raw/master/Z_Outro/DoublePendulum.gif)
 
 *In the dance of the Double Pendulum, **as in life**, the smallest shift can lead to the wildest of changes.*
 
@@ -24,9 +26,9 @@ This particular Double Pendulum example can serve as a mirror, prompting us to r
 
 ## :loudspeaker: Ways to Contribute 
 
-* Please feel free to fork the code - try it out for yourself and improve or add others graphs.
+Please feel free to fork the code - try it out for yourself and improve or add others graphs/features.
 
-* Support the [Projects](https://github.com/JAlcocerT/Py_Double_Pendulum#powered-thanks-to) that made possible this App, thanks to their fantastic job, this have been possible.
+* Support the [Projects](https://github.com/JAlcocerT/Py_Double_Pendulum#powered-thanks-to-heart) that made possible this App, thanks to their fantastic job, this have been possible.
 
 * Support extra evening code sessions:
 
