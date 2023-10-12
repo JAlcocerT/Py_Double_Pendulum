@@ -8,7 +8,7 @@ Here, we are not merely observing the erratic dance of the Double Pendulum but w
 
 This particular Double Pendulum example can serve as a mirror, prompting us to recognize the parallels between the pendulum's unpredictable swings and the intricate web of events and decisions that shape our lives. In every unexpected twist of the pendulum, there's a reflection of life's unforeseen turns, of choices that lead to vastly different outcomes, and of tiny events that cascade into monumental changes.
 
-![Double Pendulum](https://github.com/JAlcocerT/Py_Double_Pendulum/raw/master/Z_Outro/DoublePendulum.gif)
+![Double Pendulum](Z_Outro/DoublePendulum.gif)
 
 *In the dance of the Double Pendulum, **as in life**, the smallest shift can lead to the wildest of changes.*
 
