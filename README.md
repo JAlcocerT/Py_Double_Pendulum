@@ -2,9 +2,9 @@
 
 Understanding **Chaos Theory** with a simulation of a **Double Pendulum with Python** and Streamlit. Observe how deterministic and yet chaotic systems behave.
 
-My goal with this project, open to everyone, irrespective of one's grounding in science, mathematics or IT skills  is more than just creating an interactive digital simulation of a Double Pendulum. 
+My **goal** with this project, open to everyone, irrespective of one's grounding in science, mathematics or IT skills  is more than just creating an interactive digital simulation of a Double Pendulum. 
 
-Here, we are not merely observing the erratic dance of the Double Pendulum but we are invited into a deeper realm of contemplation.
+Here, we are not merely observing the erratic dance of the Double Pendulum but we are invited into a deeper contemplation.
 
 This particular Double Pendulum example can serve as a mirror, prompting us to recognize the parallels between the pendulum's unpredictable swings and the intricate web of events and decisions that shape our lives. In every unexpected twist of the pendulum, there's a reflection of life's unforeseen turns, of choices that lead to vastly different outcomes, and of tiny events that cascade into monumental changes.
 
@@ -13,7 +13,7 @@ This particular Double Pendulum example can serve as a mirror, prompting us to r
 * Deployed at: <https://double-pendulum.fossengineer.com>
     * The Docker Images are ready at [DockerHub x86/ARM](https://hub.docker.com/r/fossengineer/double_pendulum)
 * Further Description at: 
-    *  The post on my Tech Blog: <https://fossengineer.com/chaos-theory-and-the-double-pendulum-with-python/>
+    *  The post on [my Tech Blog](https://fossengineer.com/chaos-theory-and-the-double-pendulum-with-python)
     *  [Medium Post](https://medium.com/@jalcocert/python-dance-with-chaos-simulating-the-double-pendulum-d45e622da207)
 
 ## Powered Thanks To :heart:
@@ -24,13 +24,13 @@ This particular Double Pendulum example can serve as a mirror, prompting us to r
 
 ## :loudspeaker: Ways to Contribute 
 
-* Please feel free to fork the code - try it out for yourself and improve or add others graphs.
+Please feel free to fork the code - try it out for yourself and improve or add others graphs/features.
 
-* Support the [Projects](https://github.com/JAlcocerT/Py_Double_Pendulum#powered-thanks-to) that made possible this App, thanks to their fantastic job, this have been possible.
+* Support the [Projects](https://github.com/JAlcocerT/Py_Double_Pendulum#powered-thanks-to-heart) that made possible this App, thanks to their fantastic job, this have been possible.
 
 * Support extra evening code sessions:
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/FossEngineer)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z1QPGUM)
 
 ## :scroll: License
 
