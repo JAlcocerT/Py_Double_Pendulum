@@ -7,7 +7,6 @@ import numpy as np
 from scipy.integrate import odeint
 
 import streamlit_authenticator as stauth #pip install streamlit_authenticator==v0.1.5
-# pip install st_paywall==0.1.4
 from pathlib import Path
 import pickle
 
