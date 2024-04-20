@@ -31,3 +31,6 @@ python3 generate_keys.py
 ### With Supabase - {D}
 
 * [Reddit](https://www.reddit.com/r/Supabase/comments/18o1rv0/supercharge_your_streamlit_apps_with_the_supabase/)
+
+* https://supabase.com/partners/integrations/supabase_wrapper_stripe
+* https://supabase.com/auth
