@@ -1,0 +1,8 @@
+version: "2"
+services:
+  pydoublependulum:
+    image: doublependulum
+    container_name: pydoublependulum
+    ports:
+      - 8051:8050
+    restart: unless-stopped

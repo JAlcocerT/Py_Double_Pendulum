@@ -1,4 +1,7 @@
 FROM python:3.10
+LABEL maintainer="Jesus Alcocer Tagua"
+LABEL org.opencontainers.image.description="Python Double Pendulum"
+LABEL org.opencontainers.image.licenses=GPL-3.0
 
 # Copy local code to the container image.
 ENV APP_HOME /app
